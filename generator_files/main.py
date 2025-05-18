@@ -15,12 +15,12 @@ if not TOKEN:
 URL = "https://waves-api.smallest.ai/api/v1/lightning/get_speech"
 SAMPLE_RATE = 16000
 VOICE_ID = "ram"
-OUTPUT_FILE = "intro.wav"
+OUTPUT_FILE = "generator_files/intro.wav"
 
 
 payload = {
-    "text": "Hi, I am S Karthik Ram from India.",
-    "voice_id": "ram",
+    "text": "Hi, I am S Karthik Ram from Coimbatore, India. I am a software engineer and I am working on a project to generate audio files using Smallest.ai text-to-speech technology.",
+    "voice_id": "raman",
     "sample_rate": 16000,
     "speed": 1.0,
     "language": "en",
