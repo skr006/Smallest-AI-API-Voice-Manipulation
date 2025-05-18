@@ -10,20 +10,17 @@
 pip install wave
 ```
 
-  
-  
 <h2>💻 Built with:</h2>
 
 Technologies used in the project:
 
-*   Python
-*   Smallest.ai
+- Python
+- Smallest.ai
 
 <h2>⚙️Environment Setup:</h2>
 
-* API key from Smallest.ai
+- API key from Smallest.ai
 
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT License
-
