@@ -3,6 +3,7 @@
 <p align="center"><img src="https://socialify.git.ci/skr006/Smallest-AI-API-Voice-Manipulation/image?custom_description=A+simple+tool+that+turns+text+into+clear+audio+using+the+Smallest+AI+Waves+API.&amp;description=1&amp;font=Raleway&amp;language=1&amp;name=1&amp;pattern=Charlie+Brown&amp;theme=Auto" alt="project-image"><br>It offers adjustable voice and sound options, secure API access, and generates WAV files. Perfect for developers looking to add speech to applications or test voice features. Easy to set up and use, it streamlines text-to-speech integration—ideal for projects requiring quick and reliable audio output.</p>
 
 <h2>Project Repository Structure</h2>
+
 ```
 🔈Smallest-AI-API-Voice-Manipulation
 ├── 📂 generator_files
