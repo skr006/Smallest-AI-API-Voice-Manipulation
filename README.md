@@ -17,9 +17,7 @@
 <p>1. Install wave library</p>
 
 ```
-
 pip install wave
-
 ```
 
 <h2>💻 Built with:</h2>
